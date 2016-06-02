@@ -17,7 +17,7 @@ function magicFunc() {
 {% endexercise %}
 
 
-<!--sec data-title="Introduction" data-id="section0" data-show=true ces-->
+<!--sec data-title="Introduction" data-id="section0" data-show=false ces-->
 
 Insert markdown content here (you should start with h3 if you use heading).
 
