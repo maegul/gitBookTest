@@ -17,10 +17,16 @@ function magicFunc() {
 {% endexercise %}
 
 
-<!--sec data-title="Introduction" data-id="section0" data-show=true ces-->
 
-Insert markdown content here (you should start with h3 if you use heading).
+---
 
+<button class="section" target="section1" show="Show next section" hide="Hide next section"></button>
+
+<button class="section" target="section1" show="Show next section" hide="Hide next section"></button>
+
+<button class="section" target="section1" show="Show next section" hide="Hide next section"></button>
+
+<!--sec data-title="Introduction" data-id="matlab" data-show=true ces-->
 ```python
 
 def myFunc(a):
@@ -29,8 +35,26 @@ def myFunc(a):
   test =[1, 2, 3]
 
 ```
-
-more stuff
 <!--endsec-->
 
+<!--sec data-title="Introduction" data-id="python" data-show=true ces-->
+```matlab
 
+test = [];
+for i=1:10;
+  test = [test i^2];
+end;
+
+```
+<!--endsec-->
+
+<!--sec data-title="Introduction" data-id="r" data-show=true ces-->
+```r
+
+n = c(2, 3, 5) 
+s = c("aa", "bb", "cc") 
+b = c(TRUE, FALSE, TRUE) 
+df = data.frame(n, s, b)
+
+```
+<!--endsec-->
