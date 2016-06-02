@@ -1,6 +1,6 @@
 /* CSS for website */
 
-.panel-heading {
+.panel-default>.panel-heading {
   background-color: #F95;
 }
 
