@@ -21,6 +21,16 @@ function magicFunc() {
 
 Insert markdown content here (you should start with h3 if you use heading).
 
+'''python
+
+def myFunc(a):
+  return a**2
+  print a
+  test =[1, 2, 3]
+
+'''
+
+
 <!--endsec-->
 
 
