@@ -1,13 +1,13 @@
 # First Chapter
 
 {% exercise %}
-Make a function that returns 
+Make and use a function that takes a number and returns that number as a string with 'px' at the end
 {% initial %}
-var x =
+function mkPx(){}
 {% solution %}
-var x = 10;
+function mkPx(num){return num+'px';}
 {% validation %}
-assert(x == 10);
+assert(mkPx(10) == '10px');
 {% context %}
 // This is context code available everywhere
 // The user will be able to call magicFunc in his code
