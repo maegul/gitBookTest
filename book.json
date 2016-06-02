@@ -1,7 +1,8 @@
 {
     "plugins": [
         "exercises",
-        "sectionx"
+        "sectionx",
+        "ace"
     ],
     "pluginsConfig": {}
 }
