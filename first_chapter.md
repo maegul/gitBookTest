@@ -37,6 +37,22 @@ def myFunc(a):
   test =[1, 2, 3]
 
 ```
+
+{% exercise %}
+Make and use a function that takes a number and returns that number as a string with 'px' at the end
+{% initial %}
+function mkPx(){}
+{% solution %}
+function mkPx(num){return num+'px';}
+{% validation %}
+assert(mkPx(10) == '10px');
+{% context %}
+// This is context code available everywhere
+// The user will be able to call magicFunc in his code
+function magicFunc() {
+    return 3;
+}
+{% endexercise %}
 <!--endsec-->
 
 <!--sec data-title="Python" data-id="python" data-show=false ces-->
