@@ -26,7 +26,7 @@ function magicFunc() {
 
 <button class="section" target="r" show="Show R section" hide="Hide R section"></button>
 
-<!--sec data-title="Introduction" data-id="matlab" data-show=true ces-->
+<!--sec data-title="Matlab" data-id="matlab" data-show=false ces-->
 ```python
 
 def myFunc(a):
@@ -37,7 +37,7 @@ def myFunc(a):
 ```
 <!--endsec-->
 
-<!--sec data-title="Introduction" data-id="python" data-show=true ces-->
+<!--sec data-title="Python" data-id="python" data-show=false ces-->
 ```matlab
 
 test = [];
@@ -48,7 +48,7 @@ end;
 ```
 <!--endsec-->
 
-<!--sec data-title="Introduction" data-id="r" data-show=true ces-->
+<!--sec data-title="R" data-id="r" data-show=false ces-->
 ```r
 
 n = c(2, 3, 5) 
