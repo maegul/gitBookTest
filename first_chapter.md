@@ -20,8 +20,7 @@ function magicFunc() {
 
 ---
 
-<button class="section" target="Exercise" show="Show exercise section" hide="Hide exercise section"></button>
-<!--sec data-title="Exercise" data-id="Exercise" data-show=false ces-->
+
 
 <button class="section" target="matlab" show="Show matlab section" hide="Hide matlab section"></button>
 
@@ -60,7 +59,4 @@ b = c(TRUE, FALSE, TRUE)
 df = data.frame(n, s, b)
 
 ```
-<!--endsec-->
-
-
 <!--endsec-->
