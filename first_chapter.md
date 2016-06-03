@@ -20,11 +20,11 @@ function magicFunc() {
 
 ---
 
-<button class="section" target="section1" show="Show next section" hide="Hide next section"></button>
+<button class="section" target="matlab" show="Show matlab section" hide="Hide matlab section"></button>
 
-<button class="section" target="section1" show="Show next section" hide="Hide next section"></button>
+<button class="section" target="python" show="Show python section" hide="Hide python section"></button>
 
-<button class="section" target="section1" show="Show next section" hide="Hide next section"></button>
+<button class="section" target="r" show="Show R section" hide="Hide R section"></button>
 
 <!--sec data-title="Introduction" data-id="matlab" data-show=true ces-->
 ```python
